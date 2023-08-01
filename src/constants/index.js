@@ -5,8 +5,6 @@ import {
     css,
     reactjs,
     tailwind,
-    nodejs,
-    mongodb,
     git,
     eydap,
     renthome,
