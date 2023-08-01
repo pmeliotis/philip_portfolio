@@ -5,7 +5,6 @@ import {
     css,
     reactjs,
     tailwind,
-    git,
     eydap,
     renthome,
     threejs,
@@ -61,10 +60,6 @@ import {
     {
       name: "Three JS",
       icon: threejs,
-    },
-    {
-      name: "git",
-      icon: git,
     }
   ];
   
