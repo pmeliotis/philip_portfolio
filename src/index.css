@@ -123,9 +123,6 @@
   position: relative;
   text-indent: -9999em;
   transform: translateZ(0); 
-  max-height: 360px;
-  transition: all 0.3s ease-out;
-  transform: scaleY(1);
 }
 
 @keyframes mulShdSpin {
