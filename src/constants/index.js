@@ -1,6 +1,5 @@
 import {
     web,
-    linkedin,
     javascript,
     html,
     css,
